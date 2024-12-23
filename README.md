@@ -1,16 +1,9 @@
-# life_simulator
+# 人生模拟器
+参见 [changelog](changelog.md)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TODO
+- [ ] 更好的展示IQ，Health等数值，现阶段还无法显示状态debuff/buff
+- [ ] 完善剧本
+- [ ] 完善数值的作用，现在只是显示而已并没有其他功能
+- [ ] 软件图标
+- [ ] ...
